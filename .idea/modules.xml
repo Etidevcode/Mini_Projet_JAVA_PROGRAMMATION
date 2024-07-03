@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Debugging_Unit_And_Unit_Test/01-DebuggerDemo/01-DebuggerDemo.iml" filepath="$PROJECT_DIR$/Java_Debugging_Unit_And_Unit_Test/01-DebuggerDemo/01-DebuggerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Debugging_Unit_And_Unit_Test/Banking/Banking.iml" filepath="$PROJECT_DIR$/Java_Debugging_Unit_And_Unit_Test/Banking/Banking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Back_To_A_Few_And_Bolts/BogDecimal/BogDecimal.iml" filepath="$PROJECT_DIR$/Java_Back_To_A_Few_And_Bolts/BogDecimal/BogDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/01-Positif-négatif-ou-zéro/Challenge1/Challenge1.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/01-Positif-négatif-ou-zéro/Challenge1/Challenge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/10-Calculatrice-de-minutes-en-années-et-en-jours/Challenge10/Challenge10.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/10-Calculatrice-de-minutes-en-années-et-en-jours/Challenge10/Challenge10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/11-Imprimante-égalité/Challenge11/Challenge11.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/11-Imprimante-égalité/Challenge11/Challenge11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/12-Jouer-au-chat/Challenge12/Challenge12.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/12-Jouer-au-chat/Challenge12/Challenge12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. flux de contrôle/01-Nombre-en-mots/Challenge13/Challenge13.iml" filepath="$PROJECT_DIR$/02. flux de contrôle/01-Nombre-en-mots/Challenge13/Challenge13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. flux de contrôle/02-Nombre-de-jours-dans-le-mois/Challenge14/Challenge14.iml" filepath="$PROJECT_DIR$/02. flux de contrôle/02-Nombre-de-jours-dans-le-mois/Challenge14/Challenge14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. flux de contrôle/03-Somme-impaire/Challenge15/Challenge15.iml" filepath="$PROJECT_DIR$/02. flux de contrôle/03-Somme-impaire/Challenge15/Challenge15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. flux de contrôle/04-Palindrome-des-nombres/Challenge16/Challenge16.iml" filepath="$PROJECT_DIR$/02. flux de contrôle/04-Palindrome-des-nombres/Challenge16/Challenge16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. flux de contrôle/05-Somme-du-premier-et-du-dernier-chiffre/Challenge17/Challenge17.iml" filepath="$PROJECT_DIR$/02. flux de contrôle/05-Somme-du-premier-et-du-dernier-chiffre/Challenge17/Challenge17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/02-Convertisseur-de-vitesse/Challenge2/Challenge2.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/02-Convertisseur-de-vitesse/Challenge2/Challenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/03-Convertisseur-de-mégaoctects/Challenge3/Challenge3.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/03-Convertisseur-de-mégaoctects/Challenge3/Challenge3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/04-Chien-qui-aboie/Challenge4/Challenge4.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/04-Chien-qui-aboie/Challenge4/Challenge4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/05-Calculateur-Année-Bissextile/Challenge5/Challenge5.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/05-Calculateur-Année-Bissextile/Challenge5/Challenge5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/06-Comparateur-décimal/Challenge6/Challenge6.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/06-Comparateur-décimal/Challenge6/Challenge6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/07-Vérificateur-de-somme-égale/Challenge7/Challenge7.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/07-Vérificateur-de-somme-égale/Challenge7/Challenge7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/08-Vérificateur-de-numéros-pour-adolescents/Challenge8/Challenge8.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/08-Vérificateur-de-numéros-pour-adolescents/Challenge8/Challenge8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Expressions déclarations et plus/09-Calculateur-de-superficie/Challenge9/Challenge9.iml" filepath="$PROJECT_DIR$/01. Expressions déclarations et plus/09-Calculateur-de-superficie/Challenge9/Challenge9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Masterclass_2024.iml" filepath="$PROJECT_DIR$/.idea/Java_Masterclass_2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Back_To_A_Few_And_Bolts/MathRandomProject/MathRandomProject.iml" filepath="$PROJECT_DIR$/Java_Back_To_A_Few_And_Bolts/MathRandomProject/MathRandomProject.iml" />
+    </modules>
+  </component>
+</project>
